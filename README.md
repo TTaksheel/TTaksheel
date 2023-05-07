@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
+<img src="https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEWS&style=for-the-badge">
 </p>
