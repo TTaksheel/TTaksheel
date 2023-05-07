@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TTaksheel&theme=codeSTACKr)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TTaksheel&theme=codeSTACKr">
 </p>
 
 
