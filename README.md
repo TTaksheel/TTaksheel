@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image title](https://rushter.com/counter.svg)
+
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEWS&style=for-the-badge">
 </p>
