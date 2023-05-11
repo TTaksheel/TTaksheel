@@ -7,6 +7,10 @@
 <img width="617" alt="Screenshot 2023-05-07 at 13 44 33" src="https://user-images.githubusercontent.com/132825646/236678906-5bab3268-03bf-4bb9-9c0a-f30545bae7da.png">
 </p>
 
+<p align='center'>
+
+<img width="617" alt="Screenshot 2023-05-07 at 13 44 33" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
