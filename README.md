@@ -5,6 +5,10 @@
 <p align='center'>
 
 <img width="617" alt="Screenshot 2023-05-07 at 13 44 33" src="https://user-images.githubusercontent.com/132825646/236678906-5bab3268-03bf-4bb9-9c0a-f30545bae7da.png">
+  </p>
+<p align='center'>
+  
+  <img  alt="Screenshot 2023-05-07 at 13 44 33" src="https://github.com/TTaksheel/TTaksheel/assets/132825646/5e4825fd-37af-4625-9160-8e03858bb7af">
 </p>
 
 <p align='center'>
