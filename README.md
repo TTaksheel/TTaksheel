@@ -9,14 +9,7 @@
   
   <p align='center'>
 
-<img  alt="Screenshot 2023-05-07 at 13 44 33" src="  https://komarev.com/ghpvc/?username=Tepid-neitzen&label=PROFILE+COUNT&style=for-the-badge&color=green
-">
-  </p>
-<p align='center'>
-  https://komarev.com/ghpvc/?username=Tepid-neitzen&label=PROFILE+COUNT&style=for-the-badge&color=green
-  <img  alt="Screenshot 2023-05-07 at 13 44 33" src="https://komarev.com/ghpvc/?username=Tepid-neitzen&label=PROFILE+COUNT&style=for-the-badge&color=green
-">
-</p>
+
 
 <p align='center'>
 <img alt="Screenshot 2023-05-07 at 13 44 33" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
