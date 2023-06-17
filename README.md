@@ -9,7 +9,7 @@
   
   <p align='center'>
 
-![](https://komarev.com/ghpvc/?username=Tepid-neitzen&label=PROFILE+COUNT&style=for-the-badge&color=green)
+![](https://komarev.com/ghpvc/?username=Tepid-neitzen&label=PROFILE+COUNT&style=for-the-badge&color=red)
 
 
 <p align='center'>
