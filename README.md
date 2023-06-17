@@ -9,7 +9,7 @@
   
   <p align='center'>
 
-![](https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=red)
+<!-- ![](https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=red) -->
 
 
 <p align='center'>
@@ -26,6 +26,7 @@
 <img alt="Screenshot 2023-05-07 at 13 44 33" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Screenshot 2023-05-07 at 13 44 33" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </p>
+
 ![](https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=red)
 
 
