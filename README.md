@@ -29,8 +29,18 @@
 <img alt="Screenshot 2023-05-07 at 13 44 33" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </p>
 
-![](https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=red)
+<p align="center">
+  <img src= "https://github.com/TTaksheel/TTaksheel/assets/132825646/070c76b9-b41d-4004-8a79-9892efee6b0e">
+</p>
 
+<p align="center">
+  <img src= "https://komarev.com/ghpvc/?username=TTaksheel&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=red">
+</p>
+
+<a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
+<a href="https://github.com/Tepid-neitzen" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/129894851?v=4" alt="TN" width="40" height="40"/> </a>
+<a href="https://github.com/BSW-G-D-iph6" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132499310?v=4" alt="BSW" width="40" height="40"/> </a>
+<a href="https://github.com/GDSimpson3" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/103830594?v=4" alt="gdsimpson" width="40" height="40"/> </a>
 
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <!-- 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
