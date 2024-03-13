@@ -5,6 +5,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TTaksheel&theme=codeSTACKr">
 </p>
 
+
+<h3 align='center'>
+  What am i?:
+</h1>
+<p align='center'>
+I am an expert you could say on Linux and server configurations including boot loader packages such as GNU Grub and i'm currently programming languages such as C and Fortran, i also have basic skills in web development</p>
 <p align="center">
   <img src= "https://media4.giphy.com/media/MVtKGgFMzObauXl5gK/giphy.gif">
 </p>
